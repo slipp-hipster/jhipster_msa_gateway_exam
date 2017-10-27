@@ -1,0 +1,27 @@
+{
+    "gatewayApp": {
+        "contents" : {
+            "home": {
+                "title": "Contents",
+                "createLabel": "Create a new Contents",
+                "createOrEditLabel": "Create or edit a Contents"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Contents {{ id }}?"
+            },
+            "detail": {
+                "title": "Contents"
+            },
+            "title": "Title",
+            "desc": "Desc",
+            "owner": "Owner"
+        }
+    },
+    "app1App": {
+        "contents" : {
+            "created": "A new Contents is created with identifier {{ param }}",
+            "updated": "A Contents is updated with identifier {{ param }}",
+            "deleted": "A Contents is deleted with identifier {{ param }}"
+        }
+    }
+}
