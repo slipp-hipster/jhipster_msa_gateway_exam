@@ -1,0 +1,28 @@
+{
+    "gatewayApp": {
+        "owner" : {
+            "home": {
+                "title": "Owners",
+                "createLabel": "Create a new Owner",
+                "createOrEditLabel": "Create or edit a Owner"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Owner {{ id }}?"
+            },
+            "detail": {
+                "title": "Owner"
+            },
+            "login": "Login",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email"
+        }
+    },
+    "app1App": {
+        "owner" : {
+            "created": "A new Owner is created with identifier {{ param }}",
+            "updated": "A Owner is updated with identifier {{ param }}",
+            "deleted": "A Owner is deleted with identifier {{ param }}"
+        }
+    }
+}

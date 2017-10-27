@@ -2,7 +2,8 @@
   "generator-jhipster": {
     "promptValues": {
       "packageName": "net.slipp.jhipster",
-      "nativeLanguage": "ko"
+      "nativeLanguage": "ko",
+      "microservicePath": "../app1"
     },
     "jhipsterVersion": "4.10.0",
     "baseName": "gateway",
