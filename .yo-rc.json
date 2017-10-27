@@ -3,7 +3,7 @@
     "promptValues": {
       "packageName": "net.slipp.jhipster",
       "nativeLanguage": "ko",
-      "microservicePath": "../app1"
+      "microservicePath": "../app2"
     },
     "jhipsterVersion": "4.10.0",
     "baseName": "gateway",

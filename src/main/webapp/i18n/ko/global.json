@@ -9,6 +9,7 @@
                 "main": "Entities",
                 "owner": "Owner",
                 "contents": "Contents",
+                "product": "Product",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
